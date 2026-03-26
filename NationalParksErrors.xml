@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+	<NationalPark Rating="4.7">
+		<Name>Hot Springs National Park</Name>
+		<Phone>501-620-6715</Phone>
+		<Phone>501-620-6720</Phone>
+		<Address NearestAirport="Memorial Field Airport (HOT)">
+			<Number>101</Number>
+			<Street>Reserve Street</Street>
+			<City>Hot Springs</City>
+			<State>Arkansas</State>
+			<Zip>71901</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>New River Gorge National Park & Preserve</Name>
+		<Phone>304-465-0508</Phone>
+		<Address NearestAirport="Raleigh County Memorial Airport (BKW)">
+			<Number>104</Number>
+			<Street>Main Street</Street>
+			<City>Glen Jean</City>
+			<State>West Virginia</State>
+			<Zip>25846</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Glacier National Park</Name>
+		<Phone>406-888-7800</Phone>
+		<Phone>406-888-7806</Phone>
+		<Address NearestAirport="Glacier Park International Airport (FCA)">
+			<Number>64</Number>
+			<Street>Grinnell Drive</Street>
+			<City>West Glacier</City>
+			<State>Montana</State>
+			<Zip>59936</Zip>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Valley Forge National Historical Park</Name>
+		<Phone>610-783-1000</Phone>
+		<Address NearestAirport="Philadelphia International Airport (PHL)">
+			<Number>1400</Number>
+			<Street>North Outer Line Drive</Street>
+			<City>King of Prussia</City>
+			<State>Pennsylvania</State>
+			<Zip>19406</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Big Bend National Park</Name>
+		<Address NearestAirport="Midland International Air & Space Port (MAF)">
+			<Number>1</Number>
+			<Street>Panther Junction</Street>
+			<City>Big Bend National Park</City>
+			<State>Texas</State>
+			<Zip>79834</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Blackstone River Valley National Historical Park</Name>
+		<Phone>401-725-8638</Phone>
+		<Address NearestAirport="Rhode Island T.F. Green International Airport (PVD)">
+			<Number>67</Number>
+			<Street>Roosevelt Ave</Street>
+			<City>Pawtucket</City>
+			<State>Rhode Island</State>
+			<Zip>02860</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Voyageurs National Park</Name>
+		<Phone>218-283-6600</Phone>
+		<Address>
+			<Number>1797</Number>
+			<Street>Township Rd 342</Street>
+			<City>International Falls</City>
+			<State>Minnesota</State>
+			<Zip>56649</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Rocky Mountain National Park</Name>
+		<Phone>970-586-1206</Phone>
+		<Phone>970-586-1222</Phone>
+		<Phone>970-586-1319</Phone>
+		<Phone>877-444-6777</Phone>
+		<Address NearestAirport="Denver International Airport (DEN)">
+			<Number>1000</Number>
+			<Street>US Highway 36</Street>
+			<City>Estes Park</City>
+			<State>Colorado</State>
+			<Zip>80517</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Yellowstone National Park</Name>
+		<Phone>307-344-7381</Phone>
+		<Phone>307-344-2751</Phone>
+		<Phone>307-344-2117</Phone>
+		<Address NearestAirport="Jackson Hole Airport (JAC)">
+			<Number>2</Number>
+			<Street>Officers Row</Street>
+			<City>Yellowstone National Park</City>
+			<State>Wyoming</State>
+			<Zip>82190</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.7">
+		<Name>Congaree National Park</Name>
+		<Name>Congare National Park</Name>
+		<Phone>803-776-4396</Phone>
+		<Address NearestAirport="Columbia Metropolitan Airport (CAE)">
+			<Number>100</Number>
+			<Street>National Park Road</Street>
+			<City>Hopkins</City>
+			<State>South Carolina</State>
+			<Zip>29061</Zip>
+		</Address>
+	</NationalPark>
+</NationalPark>
