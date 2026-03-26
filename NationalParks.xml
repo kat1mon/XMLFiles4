@@ -13,7 +13,7 @@
 		</Address>
 	</NationalPark>
 	<NationalPark>
-		<Name>New River Gorge National Park & Preserve</Name>
+		<Name>New River Gorge National Park and Preserve</Name>
 		<Phone>304-465-0508</Phone>
 		<Address NearestAirport="Raleigh County Memorial Airport (BKW)">
 			<Number>104</Number>
@@ -49,7 +49,7 @@
 	<NationalPark>
 		<Name>Big Bend National Park</Name>
 		<Phone>432-477-2251</Phone>
-		<Address NearestAirport="Midland International Air & Space Port (MAF)">
+		<Address NearestAirport="Midland International Air and Space Port (MAF)">
 			<Number>1</Number>
 			<Street>Panther Junction</Street>
 			<City>Big Bend National Park</City>
