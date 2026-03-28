@@ -11,7 +11,6 @@
 	<xsd:element name="NationalParks">
 		<xsd:complexType>
 			<xsd:sequence>
-
 				<xsd:element name="NationalPark" maxOccurs="unbounded">
 					<xsd:complexType>
 						<xsd:sequence>
