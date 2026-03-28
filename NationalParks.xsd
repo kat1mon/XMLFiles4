@@ -2,14 +2,6 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 targetNamespace="https://raw.githubusercontent.com/kat1mon/XMLFiles4/refs/heads/main/"
 elementFormDefault="qualified" attributeFormDefault="unqualified">
-
-	<!-- PhoneType -->
-	<xsd:simpleType name="PhoneType">
-		<xsd:restriction base="xsd:string">
-			<xsd:pattern value="\d{3}-\d{3}-\d{4}"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-
 	<xsd:element name="NationalParks">
 		<xsd:complexType>
 			<xsd:sequence>
@@ -17,7 +9,7 @@ elementFormDefault="qualified" attributeFormDefault="unqualified">
 					<xsd:complexType>
 						<xsd:sequence>
 							<xsd:element name="Name" type="xsd:string"/>
-							<xsd:element name="Phone" type="PhoneType" minOccurs="1" maxOccurs="unbounded"/>
+							<xsd:element name="Phone" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
 							<xsd:element name="Address">
 								<xsd:complexType>
 									<xsd:sequence>
