@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://raw.githubusercontent.com/kat1mon/XMLFiles4/main/NationalParks.xsd">
+<NationalParks xmlns ="https://raw.githubusercontent.com/kat1mon/XMLFiles4/refs/heads/main/NationalParks.xsd"
+xmlns:bs ="https://raw.githubusercontent.com/kat1mon/XMLFiles4/refs/heads/main/NationalParks.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://raw.githubusercontent.com/kat1mon/XMLFiles4/refs/heads/main/NationalParks.xsd">
 	<NationalPark Rating="4.7">
 		<Name>Hot Springs National Park</Name>
 		<Phone>501-620-6715</Phone>
