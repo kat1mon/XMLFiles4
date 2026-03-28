@@ -4,7 +4,7 @@
 	<!-- PhoneType -->
 	<xsd:simpleType name="PhoneType">
 		<xsd:restriction base="xsd:string">
-			<xsd:pattern value="\(\d{3}\) \d{3}-\d{4}"/>
+			<xsd:pattern value="\d{3}-\d{3}-\d{4}"/>
 		</xsd:restriction>
 	</xsd:simpleType>
 
